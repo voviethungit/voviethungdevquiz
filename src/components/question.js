@@ -9,14 +9,14 @@ const question = [
       "Tây Nguyên và Nam Kì",
       "Trung Kì và Thượng Lào",
     ],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 1,
     title:
       "Năm 1948, sản lượng công nghiệp của quốc gia nào sau đây chiếm hơn một nửa sản lượng công nghiệp toàn thế giới?",
     options: ["Mĩ", "Bỉ", "Thái Lan", "Hàn Quốc"],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 2,
@@ -28,21 +28,21 @@ const question = [
       "Cuộc Chiến tranh lạnh",
       "Cuộc khủng hoảng dầu mỏ",
     ],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 3,
     title:
       "Một trong những thắng lợi của quân dân miền Nam Việt Nam góp phần làm phá sản chiến lược Chiến tranh đặc biệt (1961 - 1965) của Mĩ là",
     options: ["Đoan Hùng", "Đông Khê", "Thất Khê", "Ba Gia"],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 4,
     title:
       "Năm 1999, quốc gia nào sau đây trở thành thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
     options: ["Ấn Độ", "Trung Quốc", "Campuchia", "Bangladesh"],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 5,
@@ -54,14 +54,14 @@ const question = [
       "Tiêu diệt một bộ phận sinh lực địch",
       "Đánh đuổi phát xít Nhật và tay sai",
     ],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 6,
     title:
       "Trong cuộc kháng chiến chống thực dân Pháp (1945 - 1954), nhân dân Việt Nam nhận được sự giúp đỡ của quốc gia châu Á nào sau đây?",
     options: ["Chile", "Brazil", "Trung Quốc", "Cuba"],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 7,
@@ -73,7 +73,7 @@ const question = [
       "Mở chiến dịch Biên giới thu - đông",
       "Thành lập Hội Liên hiệp thuộc địa",
     ],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 8,
@@ -85,7 +85,7 @@ const question = [
       "Đảng Thanh niên",
       "Việt Nam Quốc dân đảng",
     ],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 9,
@@ -97,7 +97,7 @@ const question = [
       "Duy trì hòa bình và an ninh thế giới",
       "Triển khai Kế hoạch Mácsan của Mĩ",
     ],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 10,
@@ -109,14 +109,14 @@ const question = [
       "Xây dựng chủ nghĩa xã hội trên phạm vi cả nước",
       'Phát động phong trào xây dựng "Quỹ độc lập"',
     ],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 11,
     title:
       "Đến đầu những năm 70 của thế kỉ XX, nước nào sau đây đi đầu thế giới trong lĩnh vực công nghiệp điện hạt nhân?",
     options: ["Liên Xô", "Hà Lan", "Indonesia", "Venezuela"],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 12,
@@ -128,7 +128,7 @@ const question = [
       "Hoàn toàn từ bỏ tham vọng bá chủ thế giới",
       "Chấm dứt cạnh tranh kinh tế với Nhật Bản",
     ],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 13,
@@ -140,21 +140,21 @@ const question = [
       "Na Uy và Phần Lan",
       "Liên Xô và Mĩ",
     ],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 14,
     title:
       "Sau Chiến tranh thế giới thứ nhất, thực dân nào sau đây tiến hành chương trình khai thác thuộc địa lần thứ hai ở Việt Nam?",
     options: ["Bồ Đào Nha", "Pháp", "Anh", "Tây Ban Nha"],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 15,
     title:
       "Trong nửa sau thế kỉ XX, nhân dân quốc gia nào sau đây đấu tranh chống chế độ phân biệt chủng tộc?",
     options: ["Ba Lan", "Nam Phi", "Thụy Sĩ", "Cuba"],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 16,
@@ -166,7 +166,7 @@ const question = [
       "Tiếp tục tiến hành cuộc cách mạng dân tộc dân chủ nhân dân",
       "Tiếp tục thực hiện cuộc cách mạng xã hội chủ nghĩa",
     ],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 17,
@@ -178,7 +178,7 @@ const question = [
       "Kí Hiệp định Sơ bộ với Việt Nam",
       "Phát xít Nhật đã đầu hàng quân Đồng minh",
     ],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 18,
@@ -190,7 +190,7 @@ const question = [
       "Chiến dịch Việt Bắc",
       "Chiến dịch Thượng Lào",
     ],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 19,
@@ -202,7 +202,7 @@ const question = [
       "Nhận được sự giúp đỡ của Liên Xô",
       "Không phải chi phí cho quốc phòng",
     ],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 20,
@@ -214,7 +214,7 @@ const question = [
       "Phá kế hoạch bình định của Đức",
       "Thực hiện công nghiệp hóa đất nước",
     ],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 21,
@@ -226,7 +226,7 @@ const question = [
       "Đế quốc Anh và tay sai",
       "Đế quốc Pháp và phong kiến",
     ],
-    ans: 2,
+    ans: 3,
   },
   {
     id: 22,
@@ -238,7 +238,7 @@ const question = [
       "Nhà nước phong kiến được thành lập.",
       "Hai chính quyền song song tồn tại.",
     ],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 23,
@@ -250,7 +250,7 @@ const question = [
       "Mặt trận dân tộc thống nhất được củng cố và mở rộng.",
       "Sự giúp đỡ của quân đội khối Đồng minh.",
     ],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 24,
@@ -262,7 +262,7 @@ const question = [
       "Các dân tộc chống phát xít trên thế giới đã giành thắng lợi.",
       "Các nước phát xít Đức, Italia và Nhật Bản sụp đổ hoàn toàn.",
     ],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 25,
@@ -274,7 +274,7 @@ const question = [
       "chủ nghĩa thực dân cũ hoàn toàn sụp đổ.",
       "tất cả các nước châu Á đã giành độc lập.",
     ],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 26,
@@ -286,7 +286,7 @@ const question = [
       "Chủ nghĩa phát xít xuất hiện",
       "Nhật xâm lược Đông Dương.",
     ],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 27,
@@ -298,7 +298,7 @@ const question = [
       "thực dân Pháp tiến hành cuộc khai thác thuộc địa lần thứ hai.",
       "thực dân Pháp thực hiện kế hoạch Đờ Lát đơ Tátxinhi.",
     ],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 28,
@@ -310,7 +310,7 @@ const question = [
       'tuyên bố "Mĩ hóa" trở lại chiến tranh xâm lược.',
       "chấp nhận kí với Việt Nam Hiệp định Sơ bộ.",
     ],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 29,
@@ -322,7 +322,7 @@ const question = [
       "Tận dụng tốt các yếu tố bên ngoài.",
       "Nhà nước quản lí kinh tế có hiệu quả.",
     ],
-    ans: 3,
+    ans: 2,
   },
   {
     id: 30,
@@ -334,7 +334,7 @@ const question = [
       "Lực lượng chính trị, lực lượng vũ trang và căn cứ địa cách mạng bước đầu được xây dựng.",
       "Quần chúng công - nông được rèn luyện đấu tranh dưới sự lãnh đạo của một chính đảng.",
     ],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 31,
@@ -346,7 +346,7 @@ const question = [
       "Thực hiện âm mưu chiến lược của thực dân Pháp trong chiến tranh.",
       "Có sự can thiệp của Mĩ nhằm từng bước thay thế thực dân Pháp.",
     ],
-    ans: 2,
+    ans: 1,
   },
   {
     id: 32,
@@ -358,7 +358,7 @@ const question = [
       "Hòa bình, hợp tác và phát triển trở thành xu thế chủ đạo.",
       "Toàn cầu hóa xuất hiện và trở thành xu thế chủ đạo.",
     ],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 33,
@@ -370,7 +370,7 @@ const question = [
       "Lãnh đạo cách mạng là chính đảng của giai cấp công nhân.",
       "Là cuộc cách mạng có tính chất giải phóng dân tộc điển hình.",
     ],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 34,
@@ -382,7 +382,7 @@ const question = [
       "Góp phần nhận thức đúng đắn về kẻ thù chủ yếu của dân tộc.",
       "Chú trọng tập hợp lực lượng toàn dân tộc để lật đổ thực dân Pháp.",
     ],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 35,
@@ -394,7 +394,7 @@ const question = [
       "Xã hội Việt Nam xuất hiện nhiều mâu thuẫn mới, bao trùm là mâu thuẫn giai cấp.",
       "Những giai cấp mới xuất hiện tham gia giải quyết nhiệm vụ dân tộc, dân chủ.",
     ],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 36,
@@ -406,7 +406,7 @@ const question = [
       "Mĩ tiến hành những hoạt động chống phá cách mạng miền Bắc Việt Nam.",
       "Được triển khai khi quân đội Mĩ đã giành được thế chủ động trên chiến trường.",
     ],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 37,
@@ -418,7 +418,7 @@ const question = [
       "quyền lãnh đạo cách mạng Việt Nam đã chuyển hẳn sang giai cấp vô sản.",
       "Quốc tế Cộng sản luôn theo dõi và chỉ đạo trực tiếp đối với cách mạng Việt Nam.",
     ],
-    ans: 1,
+    ans: 0,
   },
   {
     id: 38,
@@ -430,7 +430,7 @@ const question = [
       "Có chủ trương giải quyết vấn đề dân tộc trong phạm vi từng nước ở Đông Dương.",
       "Đề ra chủ trương gây dựng cơ sở cho chủ nghĩa xã hội ở Việt Nam trong chiến tranh.",
     ],
-    ans: 4,
+    ans: 3,
   },
   {
     id: 39,
@@ -442,7 +442,7 @@ const question = [
       "Tạo điều kiện để hai khuynh hướng cứu nước mới xuất hiện đồng thời.",
       "Tạo điều kiện cho trí thức tiểu tư sản thành lập các tổ chức chính trị.",
     ],
-    ans: 4,
+    ans: 3,
   },
 ];
 
